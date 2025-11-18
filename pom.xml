@@ -1,0 +1,12 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>it.traininground</groupId>
+    <artifactId>treporto</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>treporto-lib</module>
+        <module>treporto-api</module>
+    </modules>
+</project>
